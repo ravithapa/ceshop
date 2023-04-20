@@ -1,0 +1,6 @@
+CREATE TABLE Progress (
+    StudentID INT,
+    CourseID INT,
+    ModulesCompleted INT,
+    LessonsCompleted INT,
+)

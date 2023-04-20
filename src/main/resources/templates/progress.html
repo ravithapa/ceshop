@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Course Progress</title>
+</head>
+<body>
+<h1>Course Progress</h1>
+<div id="progress">
+</div>
+
+<script>
+    fetch('https://ceshop/api/progress').then(response => response.json()).then(data => {
+    document.getElementById('progress').textContent = 'You have completed ${data.progressPercentage}
+    })
+
+</script>
+</body>
+</html>

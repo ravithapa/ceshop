@@ -1,0 +1,28 @@
+1. How would you make an application testable, what do you do to ensure code quality?
+- There are various tools available to test the application. For application developers,
+we can use junit test cases to process basic functions. Programmers have to break the
+complexity of the code as much as possible by creating testable code without dependencies.
+Code quality can be increased by using tools like checkmarx, sonarqube, blackduck scan
+and other tools to check for further analysis of the codes.
+
+2. From a software development perspective, what steps might you take, on an ongoing basis, to
+continually improve your skillset?
+- As a developer I would like to work on the latest and greatest and safest technology frameworks to design
+the application for the business. Depending upon the requirement we can utilize the available technology in the market.
+For example Angular framework for efficiency, fast development and ease of integration with other platforms,
+similarly we can use relational Database or NoSql database or graph database. Also, now we have cloud providers
+like GCP, AWS or AZURE which will help organization tremendously to improve the quality of IT infrastructure.
+Creating and learning new technology in different learning websites like pluralsight, hackerrank, codeacademy,
+whizlabs etc have been helping me a lot to be upto date.
+
+3. Provide an example of a time when you just couldn&#39;t complete all of your work on time to meet a
+deadline. What did you do? What was the result?
+- Since the introduction of an agile environment in my team, I have hardly missed the assignment for the sprint.
+However, there was one incident which I can recall. We were assigned to upgrade all the datefields in our application.
+There were probably around 100 changes within the application.
+We initially thought it would take couple of sprint to complete all of these changes.
+However, some of the datefield turn out to be little bit more complex to make changes in the UI.
+So, I had to work on the weekends to meet the deadline.
+We were able to complete most of the changes for the release date.
+Also, I reach out to senior developers whenever I feel like stuck or couldn't figure it out.
+Communication is the key to solve any issues in my opinion.
